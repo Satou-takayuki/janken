@@ -1,6 +1,6 @@
 ---
 name: PBI Template
-about: ''
+about: Product BacklogのTemplate
 title: ''
 labels: ''
 assignees: ''
