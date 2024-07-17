@@ -45,9 +45,10 @@ public class Main {
 
         //comの手を生成
         com.createRandomHand();
-
         // テストコード
-        System.out.println(user.getHand().getHandName());
-
+        // System.out.println("ランダムなジャンケンの手をCPUにセットする");
+        // System.out.println(user.getHand().getHandName());
+        //勝敗決定
+        // int result = game.judge(user, com);
     }
 }
